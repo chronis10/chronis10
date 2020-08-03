@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 3D Printed cubesat prototype
+
+- 🌱 I’m currently learning Flutter framework
+
 <!--
 **chronis10/chronis10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
